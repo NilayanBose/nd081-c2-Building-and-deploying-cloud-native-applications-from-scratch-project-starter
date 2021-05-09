@@ -2,9 +2,7 @@ import logging.config
 import os
 from flask import Flask, Blueprint, request, jsonify, render_template, redirect, url_for
 from flask_bootstrap import Bootstrap
-from . import settings
-# from settings import SERVER_HOST, SERVER_PORT, FLASK_DEBUG, API_URL, API_VERSION
-# import settings
+import settings
 import requests
 import json
 from feedgen.feed import FeedGenerator
