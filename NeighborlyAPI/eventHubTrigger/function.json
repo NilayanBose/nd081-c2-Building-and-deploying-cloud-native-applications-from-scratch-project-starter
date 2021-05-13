@@ -6,7 +6,7 @@
       "name": "event",
       "direction": "in",
 	  "eventHubName": "testeventhub", 
-	  "connection": "Endpoint=sb://eventtestnamespace.servicebus.windows.net/;SharedAccessKeyName=access;SharedAccessKey=nZbeaU5C2ur+CJSqiUS+QCa0f/6pg6/Fg5B09Cn80sc=;EntityPath=testeventhub"
+	  "connection": "##########################################################################"
     }
   ]
 }
